@@ -19,7 +19,7 @@
 
 To keep this collection up-to-date need contributors who can add more Program Arduino scripts
 ||
-|-----Instagram---------|
+|--------------|
 |:mailbox_with_mail: [artha_sa_](https://www.instagram.com/artha_sa_/)
 |:mailbox_with_mail: [dicky_asqaelani26](https://www.instagram.com/dicky_asqaelani26/)
 |:mailbox_with_mail: [rahmatnurraya](https://www.instagram.com/rahmatnurraya990/)
